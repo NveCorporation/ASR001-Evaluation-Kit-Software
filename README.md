@@ -13,11 +13,11 @@ Installation
 3.	Unzip the download and run setup.exe to install.  
 
 Files and Folders
-  Default installation path is C:/Program Files (x86)/NVE/ASR001 Interface/
-  ASR001_Interface.exe 	 Main application
-  Examples/EEPROM/ 	 Example EEPROM files
-  Examples/PWL/ 	 Example PWL files
-  Documents/		 User manual and datasheets
+-	Default installation path is C:/Program Files (x86)/NVE/ASR001 Interface/
+-	ASR001_Interface.exe 	 Main application
+-	Examples/EEPROM/ 	 Example EEPROM files
+-	Examples/PWL/ 	 Example PWL files
+-	Documents/		 User manual and datasheets
 
 Support
   NVE Corporation
