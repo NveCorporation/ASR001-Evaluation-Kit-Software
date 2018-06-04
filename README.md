@@ -19,15 +19,6 @@ Files and Folders
 -	Examples/PWL/ 	 Example PWL files
 -	Documents/		 User manual and datasheets
 
-Support:
-  NVE Corporation
-  
-  11409 Valley View Road
-  
-  Eden Prairie, MN 55344-3617
-  
-  Phone: (952) 829-9217
-  
-  Email:   sensor-apps@nve.com
+Support: (952) 829-9217; sensor-apps@nve.com
 
 Copyright© NVE Corporation 2018
