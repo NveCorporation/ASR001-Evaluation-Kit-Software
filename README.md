@@ -1,15 +1,16 @@
 ASR001 Interface 1.0.0
-  This is the software application for use with the NVE ASR001 Smart Angle Sensor Evaluation kit.
+
+This is the software application for use with the NVE ASR001 Smart Angle Sensor Evaluation kit.
 
 Minimum System Requirements
--	Windows 7 
+-	Windows 7 or later
 -	USB 2.0 port or powered hub
 -	20 MB storage space
 -	100 MB system memory	
 
 Installation
-1.	Download the FTDI VCP and D2XX drivers in either zip or executable format from http://www.ftdichip.com/Drivers/D2XX.htm and follow installation instructions.
-2.	Download the ASR001 Interface Software installation package.
+1.	Download the FTDI VCP and D2XX drivers in either Zip or executable format from http://www.ftdichip.com/Drivers/D2XX.htm and follow installation instructions.
+2.	Download the ASR001 Interface Software installation package Zip file.
 3.	Unzip the download and run setup.exe to install.  
 
 Files and Folders
