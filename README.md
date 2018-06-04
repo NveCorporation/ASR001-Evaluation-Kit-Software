@@ -9,7 +9,7 @@ Minimum System Requirements
 -	100 MB system memory	
 
 Installation
-1.	Download the FTDI VCP and D2XX drivers in either Zip or executable format from http://www.ftdichip.com/Drivers/D2XX.htm and follow installation instructions.
+1.	Download the FTDI VCP and D2XX USB drivers in either Zip or executable format from http://www.ftdichip.com/Drivers/D2XX.htm and follow installation instructions.
 2.	Download the ASR001 Interface Software installation package Zip file.
 3.	Unzip the download and run setup.exe to install.  
 
