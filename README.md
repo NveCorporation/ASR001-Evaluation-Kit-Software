@@ -1,7 +1,4 @@
-ASR001 Interface 1.0.0
-
-This is the software application for use with the NVE ASR001 Smart Angle Sensor Evaluation kit.
-
+For the Windows application for use with the NVE ASR001 Smart Angle Sensor Evaluation kit:
 Minimum System Requirements
 -	Windows 7 or later
 -	USB 2.0 port or powered hub
@@ -19,6 +16,8 @@ Files and Folders
 -	Examples/EEPROM/ 	 Example EEPROM files
 -	Examples/PWL/ 	 Example PWL files
 -	Documents/		 User manual and datasheets
+
+There may also be firmware updates for the Interface Board.
 
 Support: (952) 829-9217; sensor-apps@nve.com
 
