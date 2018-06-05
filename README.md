@@ -16,7 +16,7 @@ Files and Folders
 -	Examples/PWL/ 	 Example PWL files
 -	Documents/		 User manual and datasheets
 
-There may also be firmware updates for the Interface Board.
+In addition to the Windows application, there may also be firmware updates for the Interface Board.
 
 Support: (952) 829-9217; sensor-apps@nve.com
 
