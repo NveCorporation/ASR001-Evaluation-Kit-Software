@@ -1,5 +1,5 @@
-For the Windows application for use with the NVE ASR001 Smart Angle Sensor Evaluation kit:
-Minimum System Requirements
+System requirements for the Windows application for use with the NVE ASR001 Smart Angle Sensor Evaluation Kit:
+
 -	Windows 7 or later
 -	USB 2.0 port or powered hub
 -	20 MB storage space
