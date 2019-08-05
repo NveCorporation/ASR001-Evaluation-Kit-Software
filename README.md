@@ -12,12 +12,12 @@ Installation
 Files and Folders
 -	Default installation path is C:/Program Files (x86)/NVE/ASR001 Interface/
 -	ASR001_Interface.exe 	 Main application
--	Examples/EEPROM/ 	 Example EEPROM files
--	Examples/PWL/ 	 Example PWL files
--	Documents/		 User manual and datasheets
+-	Examples/EEPROM/   Example EEPROM files
+-	Examples/PWL/  Example PWL files
+-	Documents/ User manual and datasheets
 
 In addition to the Windows application, there may also be firmware updates for the Interface Board.
 
-Support: (952) 829-9217; sensor-apps@nve.com
+Support: (952) 829-9217; sensor-apps[at]nve.com
 
 Copyright© NVE Corporation 2018
